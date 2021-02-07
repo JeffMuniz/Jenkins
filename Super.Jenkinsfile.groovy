@@ -42,8 +42,7 @@ pipeline {
         FORTIFY_PROJECT_NAME='sync-capeante'
 
         SONAR_PROJECT_URL='http://sonarqube.orizon.local/dashboard?id=sync-capeante'
-        //CHAT_WEBHOOK='https://chat.googleapis.com/v1/spaces/AAAATTfXZwk/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=r48s3v97SGuMhJHRWkSv-j2V1aNLBAFzLFnk40TtxC0%3D'
-        CHAT_WEBHOOK='https://chat.googleapis.com/v1/spaces/AAAAAevr2i4/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=VRmd1lTm4ezO_UItaJH2hGCKppKKy_g7WBJjoTRYls8%3D'
+        CHAT_WEBHOOK='https://chat.googleapis.com/v1/spaces/AAAAAevr2i4/messages?key=AIzaS...'
     }
     options {
       gitLabConnection('Gitlab')
