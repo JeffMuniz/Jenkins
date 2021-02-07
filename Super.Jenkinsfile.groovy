@@ -53,7 +53,7 @@ pipeline {
             triggerOnPush: true,
             triggerOnMergeRequest: true,
             branchFilterType: 'All',
-            secretToken: 'f709975a22bf4c45ab9e3fe0dda3e206')
+            secretToken: 'f7e206')
     }
     stages 
     {
